@@ -51,12 +51,6 @@ Building practical applications and exploring intelligent technologies.
 
 ---
 
-## 🚀 Featured Projects
-
-Coming soon! Showcasing my best software development and AI projects.
-
----
-
 <div align="center">
 
 ### ✨ Always Learning. Always Building.
